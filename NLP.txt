@@ -1,0 +1,6 @@
+This tutorial is about Natural Language Processing in spacy
+Some of the email ids are:
+kaimohtaham8020@gmail.com
+kaimohtaham@gmail.com
+RakeshTalukdar2034@gmail.com
+RameshBabu@gmail.com
